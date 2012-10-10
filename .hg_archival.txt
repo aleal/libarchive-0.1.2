@@ -1,0 +1,4 @@
+repo: 4aec057445dd9df7f179268e4b7b8caa7e04a591
+node: 00def4e425c11c17b11440a4e30855c6eb1bea9e
+branch: default
+tag: libarchive-0.1.2
